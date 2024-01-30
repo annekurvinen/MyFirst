@@ -1,2 +1,5 @@
 mytodolist.txt
 
+handla
+tanka
+plugga

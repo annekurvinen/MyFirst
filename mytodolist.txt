@@ -3,3 +3,6 @@ mytodolist.txt
 handla
 tanka
 plugga
+
+uppdatera trello
+skapa gruppkontrakt
